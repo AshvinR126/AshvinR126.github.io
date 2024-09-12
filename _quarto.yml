@@ -6,7 +6,7 @@ website:
   title: "AshvinR126.github.io"
   navbar:
     left:
-      - href: docs/index.qmd
+      - href: index.qmd
         text: Home
       - about.qmd
 
